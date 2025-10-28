@@ -1,0 +1,20 @@
+[
+  {
+    "name": "coffee",
+    "amount": 6.65,
+    "category": "Food",
+    "date": "2025-10-28"
+  },
+  {
+    "name": "Rent",
+    "amount": 2700.0,
+    "category": "Bills",
+    "date": "2025-10-28"
+  },
+  {
+    "name": "Car",
+    "amount": 794.86,
+    "category": "Transport",
+    "date": "2025-10-29"
+  }
+]
